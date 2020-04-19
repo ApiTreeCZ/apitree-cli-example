@@ -1,0 +1,15 @@
+# IntelliJ IDEA / WebStorm specific
+.idea/
+
+# VSCode specific
+.vscode/
+.history/
+
+# Build folder for exposing lib
+lib/
+
+# Ignore node modules
+node_modules
+
+# Coverage directory used by tools like istanbul
+coverage
